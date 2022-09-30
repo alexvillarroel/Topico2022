@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber build/main"] 1664548471 "build/main.bcf" "build/main.bbl" "build/main" 1664548471
-  "build/main.bcf" 1664548471 106540 0393a0d2e3806724f25f204d93fdf036 "pdflatex"
+["biber build/main"] 1664548951 "build/main.bcf" "build/main.bbl" "build/main" 1664548951
+  "build/main.bcf" 1664548951 106540 0393a0d2e3806724f25f204d93fdf036 "pdflatex"
   (generated)
   "build/main.bbl"
   "build/main.blg"
-["pdflatex"] 1664548470 "/home/alex/Desktop/Topico2022/main.tex" "build/main.pdf" "main" 1664548470
-  "/home/alex/Desktop/Topico2022/main.tex" 1664548470 4025 21c102734bcd4d7ce078ccbac2d81cfa ""
+["pdflatex"] 1664548950 "/home/alex/Desktop/Topico2022/main.tex" "build/main.pdf" "main" 1664548950
+  "/home/alex/Desktop/Topico2022/main.tex" 1664548919 4025 e39c1bda82de362c8f009591184ca284 ""
   "/usr/share/texmf-dist/fonts/map/fontname/texfonts.map" 1650183167 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy5.tfm" 1650183167 1120 1e8878807317373affa7f7bba4cf2f6a ""
   "/usr/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy7.tfm" 1650183167 1120 7f9f170e8aa57527ad6c49feafd45d54 ""
@@ -212,11 +212,11 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1650183167 39911 2da6c67557ec033436fe5418a70a8a61 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1664545544 4278762 af3ac1370db81a450c1118eabf1fe718 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1664545539 2927663 a567ee1ec1e69743ef35c87f1991ff07 ""
-  "build/main.aux" 1664548470 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "build/main.aux" 1664548950 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
   "build/main.bbl" 0 -1 0 "biber build/main"
   "build/main.run.xml" 0 -1 0 "pdflatex"
   "escudo.png" 1664546696 66182 753f8f2e4e0f693ebd483b6296712435 ""
-  "main.tex" 1664548470 4025 21c102734bcd4d7ce078ccbac2d81cfa ""
+  "main.tex" 1664548919 4025 e39c1bda82de362c8f009591184ca284 ""
   (generated)
   "build/main.aux"
   "build/main.bcf"
